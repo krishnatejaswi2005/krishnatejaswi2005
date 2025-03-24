@@ -13,7 +13,6 @@
 
 ## 🏆 Achievements & Initiatives  
 - 🏅 **Inter-College Project Expo**: Presented my work and gained valuable exposure.  
-- 🎓 **Scholarship Applications**: Actively seeking opportunities through **HDFC Bank Parivartan ECSS, Nilaya Foundation, SMRATA Trust, Mahabir Prasad Singh Foundation, and more**.  
 - 🌍 **Community Growth**: Revitalized the **Upswing initiative** to help students upskill in Web Development, AI, and Designing.  
 
 ## 🛠️ Tech Stack  
@@ -21,7 +20,7 @@
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 - **Version Control**: Git, GitHub  
-- **Tools & Frameworks**: Poetry (for Python dependency management), Postman, REST APIs  
+- **Tools & Frameworks**: Postman, REST APIs  
 
 ## 📚 Current Learning Roadmap  
 🔹 **React.js** (Target: 1 month) → **Flutter (App Development)** → **AI & ML with Python** → **Blockchain**  
