@@ -1,6 +1,6 @@
 # 🚀 Krishna Tejaswi | Aspiring Full Stack Developer | Blockchain | AI & ML Enthusiast  
 
-👋 Hi there! I'm **Krishna Tejaswi**, a second-year **Computer Science and Engineering** student at **Malla Reddy Engineering College, Hyderabad**. My passion lies in **Web Development, AI & ML, and Blockchain**. I believe in **continuous learning, innovation, and community-driven growth**.  
+👋 Hi there! I'm **Krishna Tejaswi**, a final-year **Computer Science and Engineering** student at **Malla Reddy Engineering College, Hyderabad**. My passion lies in **Web Development, AI & ML, and Blockchain**. I believe in **continuous learning, innovation, and community-driven growth**.  
 
 ## 🔥 About Me  
 - 💡 A **Full Stack Developer** with experience in **MERN Stack (MongoDB, Express.js, React, Node.js)**.  
